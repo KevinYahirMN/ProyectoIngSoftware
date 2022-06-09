@@ -185,5 +185,15 @@ namespace IngeniriaProyceto.Contenidos
                 Limpiar();
             }
         }
+
+        private void txtIva8_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtNombreEmisores_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
